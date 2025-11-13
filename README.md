@@ -8,7 +8,7 @@ A lightweight and performant modpack with quality-of-life features.
 
 Chimney focuses on performance improvements and essential quality-of-life additions for Minecraft. The pack maintains vanilla gameplay while providing better framerates and reduced lag.
 
-## Mod List
+## Mod List I am aiming to include in all versions
 
 | Mod | Category | Description |
 |-----|----------|-------------|

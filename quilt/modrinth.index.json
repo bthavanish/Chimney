@@ -1,0 +1,103 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "0.1.1",
+  "name": "Chimney-quilt",
+  "summary": "The alpha version of chimney for Quilt.",
+  "files": [
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.13.2+1.21.10.jar",
+      "hashes": {
+        "sha512": "4e1a36349ca1aff20ad199ae4f45160403684caf533ef8030fb154420b9bac0ec4e592537640bdf391ed09cc333894fc8b97c5e7aaa5bd8b9d3d98a7cbc2ed06",
+        "sha1": "e3f487736064ccd6c94e110cbaa057cf72eea2aa"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/mmM8JfKR/ImmediatelyFast-Fabric-1.13.2%2B1.21.10.jar"
+      ],
+      "fileSize": 196440
+    },
+    {
+      "path": "mods/BetterF3-16.0.3-Fabric-1.21.10.jar",
+      "hashes": {
+        "sha512": "3f26208d69ff9adb026d68a765f823918d1ad7680262c2744f384d18dcc10c00b2741ea7dfd8302965b5fbefaefc3b7596b1c7507f3f8c7e3024368e71bfe710",
+        "sha1": "5baeed05a286409c8c49bb091f26d7f70c9d7503"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8shC1gFX/versions/nIoTbJd0/BetterF3-16.0.3-Fabric-1.21.10.jar"
+      ],
+      "fileSize": 1814114
+    },
+    {
+      "path": "mods/sodium-fabric-0.7.3+mc1.21.10.jar",
+      "hashes": {
+        "sha1": "1c3ffa862d9fa4479abf67a88527907d60237248",
+        "sha512": "1cccdc75d972f5c176a488dcc84cce7320b608a2d105412f2847245affbf5aa22b1995eda392132453fa6e1a9154ac99a87acaf8d7989b9f1a23ac1059a93daf"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/sFfidWgd/sodium-fabric-0.7.3%2Bmc1.21.10.jar"
+      ],
+      "fileSize": 1676903
+    },
+    {
+      "path": "mods/modmenu-16.0.0-rc.1.jar",
+      "hashes": {
+        "sha1": "c927187d11cb6db2d3daad2a24899f1a70a1618f",
+        "sha512": "6a6a02911e065fc87265b915193fd4ad6dfbacc7dd6da53151eddbb4c08c6c1f57cc68d97af02d64f253e5f3e3f9110e715408489672b32c435c52e0467053ae"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/e0mxOOIE/modmenu-16.0.0-rc.1.jar"
+      ],
+      "fileSize": 1077403
+    },
+    {
+      "path": "mods/lithium-fabric-0.20.0+mc1.21.10.jar",
+      "hashes": {
+        "sha512": "755c0e0fc7f6f38ac4d936cc6023d1dce6ecfd8d6bdc2c544c2a3c3d6d04f0d85db53722a089fa8be72ae32fc127e87f5946793ba6e8b4f2c2962ed30d333ed2",
+        "sha1": "6f828c09ad43641bed3438e7ea6a4ab313f78d40"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0%2Bmc1.21.10.jar"
+      ],
+      "fileSize": 830020
+    },
+    {
+      "path": "mods/placeholder-api-2.8.1+1.21.10.jar",
+      "hashes": {
+        "sha1": "4950367323147265b272ad2156bf1a343db3f64c",
+        "sha512": "92606640457931698f272e4e8866b5357767360e78a3eed8b3bd490e8a17bfeaefdc0bd444ac8ba4f51b7f9f1eb7f22337e034b409939db3601269d4b53ad22c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/eXts2L7r/versions/T5pDJV1K/placeholder-api-2.8.1%2B1.21.10.jar"
+      ],
+      "fileSize": 267926
+    }
+  ],
+  "dependencies": {
+    "quilt-loader": "0.29.3-beta.1",
+    "minecraft": "1.21.10"
+  }
+}

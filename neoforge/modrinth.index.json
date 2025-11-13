@@ -1,0 +1,223 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "0.1.5",
+  "name": "chimney-neoforge",
+  "summary": "The alpha version of chimney for neoforge",
+  "files": [
+    {
+      "path": "mods/justzoom_neoforge_2.1.2_MC_1.21.10.jar",
+      "hashes": {
+        "sha512": "e9d2cb1aad2e3e9920d27ef03b19e5d7af88968e03d0cd0f7a2cda6f84ef7fa62eb245d05c98469d528ffb202c4984d83701b93688ab9b578183f1a2c0fd7b8d",
+        "sha1": "06e237139e0816695d7071c288c649a0d577780c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iAiqcykM/versions/ySsC0IDQ/justzoom_neoforge_2.1.2_MC_1.21.10.jar"
+      ],
+      "fileSize": 65865
+    },
+    {
+      "path": "mods/fast-ip-ping-v1.0.7-mc1.21.6-neoforge.jar",
+      "hashes": {
+        "sha512": "a22921aaf0f508b8791145867e1bad4dffc59670d187e2883e8756903c8d231d9c62f6d902b0a226de85dd7d4006d4a3c0bdd7478d5cf746257b4ba7a3d06921",
+        "sha1": "a5f82d95cc65592b7b40b57743f99c83c4fb2e0d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9mtu0sUO/versions/1BNB9pCO/fast-ip-ping-v1.0.7-mc1.21.6-neoforge.jar"
+      ],
+      "fileSize": 10330
+    },
+    {
+      "path": "mods/sodium-neoforge-0.7.3+mc1.21.10.jar",
+      "hashes": {
+        "sha512": "26e9ab3d61b06987fad5d2334625bb74e780f4e87588057ab836e9b784b813ad0c1f015ffdf83e50a3a72211a0a06005970ccc0ad9d01d92839bf93567615797",
+        "sha1": "bc7c0fb985908a5ee84ce12e46e04afa7ece935e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/PdQpfqPZ/sodium-neoforge-0.7.3%2Bmc1.21.10.jar"
+      ],
+      "fileSize": 1141369
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.20.6-1.21.10.jar",
+      "hashes": {
+        "sha1": "579e95cf5e02b2dee109b61b4d0ba10d7baee5f3",
+        "sha512": "db98350359c00fbf1cec6f88292c67ea0857bb75d3c84a4c4dda89431caa520f5da578bf63fe247f1c88a44cf3efd5a93d14672b6a35a715ccf63990939b0115"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TjSm1wrD/versions/LBFZeX2u/modernfix-neoforge-5.20.6-1.21.10.jar"
+      ],
+      "fileSize": 468869
+    },
+    {
+      "path": "mods/collective-1.21.10-8.13.jar",
+      "hashes": {
+        "sha512": "01544f5e3c85ab98c688b50de3f1fcb90204de4dbe65972d27ee3af0dd8dd6ba7624eeebb030553746ff927169a06874050364c35eab505edd0a0a8baa07e139",
+        "sha1": "ed4d3673937e96d377de77bccd6dfbaadabd6d59"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/e0M1UDsY/versions/A0CFMmGr/collective-1.21.10-8.13.jar"
+      ],
+      "fileSize": 965963
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.13.2+1.21.10.jar",
+      "hashes": {
+        "sha512": "fb759e79c10abd3d39d255d43ff393850e98f4c0e8d4e5386a60b48b91c9f64a2769a53c78a559b7da5f72995a2fa49938a268ed08f94919d9f1951212525a25",
+        "sha1": "9883f8f87d6949df70fa326e206a302cc0d7ef46"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/tbJcnc8g/ImmediatelyFast-NeoForge-1.13.2%2B1.21.10.jar"
+      ],
+      "fileSize": 220466
+    },
+    {
+      "path": "mods/lithium-neoforge-0.20.0+mc1.21.10.jar",
+      "hashes": {
+        "sha512": "4257e14628f16f51d3b2dc225415035e335de5b49f37acb5f51c3e83135793dcf0870da34b55a1370002d5df402aefd7961694d3ad2c04586f847abcdc0d9659",
+        "sha1": "4592010f669fa8e4c1adb762864553ea0c0497d4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/JbdyCWex/lithium-neoforge-0.20.0%2Bmc1.21.10.jar"
+      ],
+      "fileSize": 806711
+    },
+    {
+      "path": "mods/ferritecore-8.0.2-neoforge.jar",
+      "hashes": {
+        "sha1": "740868cf245519f4059e21c67dcdfa3b33af8ab2",
+        "sha512": "d5643cca63383625d2e3bbb84be00a8097eb59d28b84c054c5b508c2760db742d5a651ac1683d81e572a5c915f6da84017765059fdaa326a83eb640c0ec67b6d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/dR6exAyF/ferritecore-8.0.2-neoforge.jar"
+      ],
+      "fileSize": 78843
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.13_MC_1.21.10.jar",
+      "hashes": {
+        "sha512": "533ede264ef52dd70c010674e7e01fb5e9c31d456ccd8a937f1f39cf1d9215d0b1dc6edf76cc1c0bb2b2a22c8cf1a6ea00f995d0b748a3c18b9433c34b85a28c",
+        "sha1": "e33c59386b53780346aab0b7947a2ba8ca335d59"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/J81TRJWm/versions/Em70hPwG/konkrete_neoforge_1.9.13_MC_1.21.10.jar"
+      ],
+      "fileSize": 504239
+    },
+    {
+      "path": "mods/cloth-config-20.0.149-neoforge.jar",
+      "hashes": {
+        "sha1": "31650319a74911e4ac798ca7ca80e0017d95bfdc",
+        "sha512": "8a96fe1c4631aa374c3f7d9b59be87a36c3e3adeb72e1b74d4e3850a29672dfc0e0879a65e3e42db86075bb6749bf5c2c4d4974f083918a00c4d140f90a71591"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/AzRGxC9j/cloth-config-20.0.149-neoforge.jar"
+      ],
+      "fileSize": 1156686
+    },
+    {
+      "path": "mods/entityculling-neoforge-1.9.3-mc1.21.10.jar",
+      "hashes": {
+        "sha512": "13a40dd22cf982f3932149fed2149cd0e233a077e709261b8fe4a67275781cf4f8f4c85621474d7c95341073bbb4a2918e20890113812da5ac3483f2b451e454",
+        "sha1": "422593ec89e40d474f3371315959a306a052d2bd"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/oi6SWG6F/entityculling-neoforge-1.9.3-mc1.21.10.jar"
+      ],
+      "fileSize": 486226
+    },
+    {
+      "path": "mods/BetterF3-16.0.3-NeoForge-1.21.10.jar",
+      "hashes": {
+        "sha1": "9b8841e9e3e95824ede7ecafd8ef1efe6caea927",
+        "sha512": "6a5c5c0209c6f4f91e7c741d7489866a1f9e4250c3129026d35a6885ca56c0f7d080bd5d893a522e6dd7b4e68fb65cd06c4f54f3a204d1409c2a91142c5cf20e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8shC1gFX/versions/5QmRxbNU/BetterF3-16.0.3-NeoForge-1.21.10.jar"
+      ],
+      "fileSize": 481818
+    },
+    {
+      "path": "mods/treeharvester-1.21.10-9.3.jar",
+      "hashes": {
+        "sha512": "7e593969801cd87fa7eea749aecdc1f6a9ee06fa8a3346d960d54da809ed32fb882cca1f5c6955a554ae147e552d8736fffbca031240cf575c8aefb6b8696d11",
+        "sha1": "f811df95593b02f5c33c0bbd3c4b8c288ef4f2de"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/abooMhox/versions/8urgnvK3/treeharvester-1.21.10-9.3.jar"
+      ],
+      "fileSize": 120526
+    },
+    {
+      "path": "mods/c2me-neoforge-mc1.21.10-0.3.6+alpha.0.77.jar",
+      "hashes": {
+        "sha1": "b0eba0266af0036420b9993b89e13dfd4fe8f938",
+        "sha512": "401e1c6f15d4fc433d40468fe68ac7aaa341e0fbbf67dc06eef6bbbca1795f4a039aa0f8e83eba7661feb0329b203be4b8ba289dc1777fe50b56a70485ebbe16"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/COlSi5iR/versions/kGYEwIMo/c2me-neoforge-mc1.21.10-0.3.6%2Balpha.0.77.jar"
+      ],
+      "fileSize": 4499297
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.21.10",
+    "neoforge": "21.10.51-beta"
+  }
+}
